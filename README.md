@@ -308,6 +308,3 @@ It goes beyond basic ETL and reflects **financial data engineering and analytics
 
 ---
 
-👤 **Author**: *[Your Name]*
-💼 **Role**: Data / Analytics Engineer
-📬 **LinkedIn / GitHub**: *Add links here*
